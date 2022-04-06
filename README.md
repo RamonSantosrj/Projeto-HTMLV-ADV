@@ -1,5 +1,5 @@
-# Projeto Java Orientado a Objetos
-> Aula 05 COTI Informática POO
+# Projeto HTML ADVANCED
+> Projeto final Do curso de HTML ADV
 ## Conteúdo Utilizado no Projeto
 1. HTML/CSS/JS
 2. Boostrap
